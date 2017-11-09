@@ -7,4 +7,4 @@
 ![h](https://github.com/buzuoxianfish/2017.11.8/blob/master/2.jpg)
 xind 
 ![kan](https://github.com/buzuoxianfish/2017.11.8/blob/master/nani/1.jpg)
-！[nikan](https://github.com/buzuoxianfish/2017.11.8/blob/master/nani/1.jpg)
+[nikan](https://github.com/buzuoxianfish/2017.11.8/blob/master/nani/1.jpg)
